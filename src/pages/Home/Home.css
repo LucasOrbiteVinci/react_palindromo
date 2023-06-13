@@ -1,0 +1,31 @@
+div h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding-top: 200px;
+    margin-right: 350px;
+    font-size: 50px;
+    color: #1d3b95;
+    margin-bottom: -50px;
+    
+}
+
+div h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    font-size: 100px;
+    margin-left: 150px;
+    color: #162355;
+   
+}
+
+#link-palindromo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    
+}

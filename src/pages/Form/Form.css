@@ -1,0 +1,38 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    gap: 10px;
+    flex-direction: column;
+    
+}
+
+#paragraph-container {
+    font-size: 40px;
+    
+}
+
+#filled-basic {
+    font-size: 60px;
+    font-weight: bold;
+    height: 25px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#btn {
+    padding: 15px;
+    font-size: 18px;
+    margin-left: 30px;
+
+   
+
+
+}
+
+
