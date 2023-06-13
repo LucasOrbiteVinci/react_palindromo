@@ -23,7 +23,7 @@ const Effect = () => {
         value={word}
         onChange={(e) => setWord(e.target.value)}
         id="filled-basic"
-        label="Filled"
+        label="Digite uma Palavra"
         variant="filled"
       />
     </div>

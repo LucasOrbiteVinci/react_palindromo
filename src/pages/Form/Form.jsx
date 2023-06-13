@@ -24,7 +24,7 @@ const Form = () => {
           value={word}
           onChange={(e) => setWord(e.target.value)}
           id="filled-basic"
-          label="Filled"
+          label="Digite uma palavra"
           variant="filled"
         />
         <Button id="btn" type="submit" variant="contained">
